@@ -1,0 +1,11 @@
+syntax: glob
+.DS_Store
+Output
+Networking.*.suo
+Networking.userprefs
+Runtime/obj
+Runtime/bin
+Runtime-Editor/obj
+Runtime-Editor/bin
+Editor/bin
+Editor/obj
